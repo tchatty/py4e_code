@@ -6,6 +6,8 @@ __pycache__/
 # Ignore PyCharm project settings
 .idea/
 
+#Ignore phcode.json
+.phcode.json
 # Ignore Windows system files
 Thumbs.db
 ehthumbs.db
